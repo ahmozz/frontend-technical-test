@@ -6,7 +6,7 @@
       "recipientNickname": "Jeremie",
       "senderId": 1,
       "senderNickname": "Thibaut",
-      "lastMessageTimestamp": 1625637849
+      "lastMessageTimestamp": 1599108942000
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "recipientNickname": "Patrick",
       "senderId": 1,
       "senderNickname": "Thibaut",
-      "lastMessageTimestamp": 1620284667
+      "lastMessageTimestamp": 1589907942000
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "recipientNickname": "Thibaut",
       "senderId": 4,
       "senderNickname": "Elodie",
-      "lastMessageTimestamp": 1625648667
+      "lastMessageTimestamp": 1589207932000
     }
   ],
   "messages": [
@@ -53,6 +53,20 @@
       "timestamp": 1620284667,
       "authorId": 2,
       "body": "Bonjour c'est le premier message de la seconde conversation"
+    },
+    {
+      "id": 5,
+      "conversationId": 3,
+      "timestamp": 1620284699,
+      "authorId": 4,
+      "body": "Salut Thibaut "
+    },
+    {
+      "conversationId": "1",
+      "timestamp": 1656972007156,
+      "authorId": 1,
+      "body": "Testing !",
+      "id": 6
     }
   ],
   "users": [
